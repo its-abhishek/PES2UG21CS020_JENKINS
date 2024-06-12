@@ -1,1 +1,1 @@
-print("Namaskara Gaandu")
+print("hello world")
